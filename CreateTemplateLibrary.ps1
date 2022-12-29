@@ -9,8 +9,8 @@ $Owner = "user@yourdomain.com"
 $Locale = 1044
 $TimeZone = 4
 
-Install-Module
-Import-Module
+Install-Module -Name PnP.PowerShell
+Import-Module -Name PnP.PowerShell
 
 #Connecto to the SharePoint Admin site
 Connect-PnPOnline -url https://$Domain-admin.sharepoint.com -Interactive
