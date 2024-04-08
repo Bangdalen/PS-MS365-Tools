@@ -1,0 +1,28 @@
+[
+  {
+    "TeamName": "Team1",
+    "Channels": [
+      {
+        "ChannelName": "Channel1",
+        "MembershipType": "Private"
+      },
+      {
+        "ChannelName": "Channel2",
+        "MembershipType": "Standard"
+      }
+    ]
+  },
+  {
+    "TeamName": "Team2",
+    "Channels": [
+      {
+        "ChannelName": "Channel3",
+        "MembershipType": "Private"
+      },
+      {
+        "ChannelName": "Channel4",
+        "MembershipType": "Standard"
+      }
+    ]
+  }
+]
